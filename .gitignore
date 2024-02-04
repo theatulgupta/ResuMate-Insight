@@ -1,0 +1,89 @@
+# Virtual Environment
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file (PyCharm)
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Database
+*.sqlite
+*.db
+
+# IDE files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs
+*.log
+
+# Python 3.7 __pycache__, pycharm
+__pycache__/
+.idea/
+
+# Environments
+/.env
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Pyre type checker
+.pyre/
+
+# wxGlade project file
+*.gade
+
+# Eclipse
+.classpath
+.project
+
+# PyDev
+.project
+.metadata
+
+# VS Code
+.vscode/
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# Platform-specific files
+*.pyc
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
